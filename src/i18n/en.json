@@ -8,8 +8,8 @@
   },
   "home": {
     "greeting": "Hello, I'm",
-    "role": "Full Stack Developer",
-    "description": "I create beautiful and functional web applications with a focus on user experience."
+    "role": "Back End Developer",
+    "description": "I build robust and reliable backend architectures for web applications, leveraging cutting-edge technologies to ensure high performance, security, and scalability. I focus on crafting optimized, seamless-to-integrate systems while maintaining a smooth user experience from backend to frontend."
   },
   "projects": {
     "title": "Projects",
@@ -31,6 +31,9 @@
     "name": "Name",
     "email": "Email",
     "message": "Message",
-    "send": "Send Message"
+    "send": "Send Message",
+    "getInTouch": "Get in Touch",
+    "successMessage": "Message sent successfully! I'll get back to you soon.",
+    "errorMessage": "Failed to send message. Please try again later."
   }
 }
